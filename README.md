@@ -1,7 +1,9 @@
-#Table of Contents    
-[Few words about GFER syndrome](#Few_words_about_GFER_syndrome)  
-[What is GFER](#What_is_GFER) 
+# Table of Contents    
+1. [Our story](#Our_story)  
+2. [What is GFER](#What_is_GFER)   
+2.1. [Few words about GFER syndrome](#Few_words_about_GFER_syndrome)   
 
+<a name="Our_story"/>  
 # Our story 
 <img src="./Images/IMG-20180821.jpg" width="250">
 
