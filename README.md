@@ -14,9 +14,8 @@ Since then, both of us left our jobs and set on a long track dedicating our time
  
 I do hope to report good news from time to time.
 
-# What is GFER
----
-## General  
+# Few words about GFER syndrome
+## What is GFER 
 > Protein: FAD-linked sulfhydryl oxidase ALR  
 > Gene: GFER
 >  
@@ -29,3 +28,38 @@ molecular oxygen
 **Isoform 2:**  
 May act as an autocrine hepatotrophic growth factor promoting liver regeneration.  
 [GFER functions taken from uniprot](https://www.uniprot.org/uniprot/P55789)
+
+## What is GFER Syndrome
+To understand what is GFER syndrome first we need to talk about the mitochondria - the powerhouse of the cell.
+<img src="./Images/Mitochondrion_mini.png" width="250">
+
+This little creature in the image is mitochondrion and in each cell in our body we have a community of these. 
+I wrote creature as it was once, long ago, an independent creature. 
+Nowadays they are no longer independent and tightly coupled to our own genome. 
+How much? About 13 genes are encoded in the mitochondria and ~1,000 genes which are critical to its 
+existence are in our own nucleus. 
+  
+GFER also called ALR (or ERV1 in yeast) is a gene which is encoded by the cell nucleus and its protein product 
+is imported into the Mitochondria inner membrane space (IMS). Here, GFER together with its partner, CHCHD4 
+(called Mia40 in yeast) are in charged of folding relevant mitochondrial proteins into their functional forms. 
+More formally GFER oxidizes CHCHD4 and transfer the electron into Cytochrome C and to the electron transport chain(ETC).
+If there is a problem in GFER then CHCHD4 remain reduced and cannot fold the mitochondria proteins and sub-units. 
+In the cellular level, this will cause:
+
+1. ETC efficiency will decrease due to the missing electrons.
+1. The mitochondria will lack various building blocks and its ability to maintain itself will be hindered.
+1. The IMS will become bloated with partially folded proteins with structural damage. This damage may cause 
+cytochrome c depletion and lead to apoptosis.
+1. Mitochondrial unfolded protein response will be constantly active.
+1. Mia40 may free it's electrons, eventually, as free radical which hinders the mitochondria, 
+including its DNA, until it cannot repair itself.
+
+As ATP production will hinder, the cell energy production process will produce lots of oxidative stress.
+  
+To make things more complicated GFER have other roles like blocking (inhibiting) the signal which causes fission 
+of mitochondria (DRP1) and growth factor signaling for liver regeneration.
+  
+From the clinical perspective, it means a progressive neurodegenerative disease with myopia, congenital cataracts, loss of motor abilities and more.
+  
+This is the disease we are in a war with and we want to stop from taking its toll.
+ 
