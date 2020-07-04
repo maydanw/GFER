@@ -34,6 +34,16 @@ search for more "stable" solutions.   <br/>
 <img src="./Images/WA-20200512.jpeg" width="250"> 
      
 <img src="./Images/WA-20200701.jpeg" width="250">    
+  
+# Research 
+We are working with various researchers and search to extend this network and facilitate cooperations. We believe these will allow each researcher achieve much more with lesser efforts while avoiding redundant work, and while the money needed for research is endless, we can also fund some of it making the reseach for Alon more approchable.   
+**What we have:**
+* Models
+  * Fibroblast - We are currently working with fibroblast (from the whole family) and found few biomarkers. Of which, some of are good and some less. Improving this model can contribute and if you are intrested in doing reseach with them and sync with other researchers please let me know.
+  * Mouse model - We are trying to build a mouse model (currently to no avail).  
+  
+**What we need:**
+
 
   
 # Few words about GFER syndrome  
