@@ -2,6 +2,7 @@
 1. [Our story](#Our_story)  
 2. [What is GFER](#What_is_GFER)   
 2.1. [Few words about GFER syndrome](#Few_words_about_GFER_syndrome)   
+2.2. [What is GFER Syndrome](#What_is_GFER_Syndrome)   
   
 # Our story   
 <a name="Our_story"/>  
@@ -21,10 +22,12 @@ Since then, both of us left our jobs and set on a long track dedicating our time
  
 I do hope to report good news from time to time.
 
+# Few words about GFER syndrome  
 <a name="Few_words_about_GFER_syndrome"/>  
-# Few words about GFER syndrome
-<a name="What_is_GFER"/>  
+  
 ## What is GFER 
+<a name="What_is_GFER"/>  
+
 > Protein: FAD-linked sulfhydryl oxidase ALR  
 > Gene: GFER
 >  
@@ -37,8 +40,10 @@ molecular oxygen
 **Isoform 2:**  
 May act as an autocrine hepatotrophic growth factor promoting liver regeneration.  
 [GFER functions taken from uniprot](https://www.uniprot.org/uniprot/P55789)
+  
+## What is GFER Syndrome  
+<a name="What_is_GFER_Syndrome"/>  
 
-## What is GFER Syndrome
 To understand what is GFER syndrome first we need to talk about the mitochondria - the powerhouse of the cell.
 <img src="./Images/Mitochondrion_mini.png" width="250">
 
