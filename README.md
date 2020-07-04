@@ -1,7 +1,7 @@
 # Table of Contents    
 1. [Our story](#Our_story)  
-2. [What is GFER](#What_is_GFER)   
-2.1. [Few words about GFER syndrome](#Few_words_about_GFER_syndrome)   
+2. [Few words about GFER syndrome](#Few_words_about_GFER_syndrome)   
+2.1. [What is GFER](#What_is_GFER)   
 2.2. [What is GFER Syndrome](#What_is_GFER_Syndrome)   
   
 # Our story   
