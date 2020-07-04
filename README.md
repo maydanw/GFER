@@ -1,5 +1,6 @@
 # Our story 
-![Alon 21.08.2018](https://github.com/maydanw/GFER/master/Images/IMG-20180821.jpg "Alon")
+<img src="./Images/IMG-20180821.jpg" width="250">
+
 This cute baby name is Alon and he is 9 months old in the picture which was taken in August 2018. When Alon was 3 months old congenital cataracts were suddenly forming in his eyes and urgent surgeries were required. Along with the surgeries metabolic and genetics tests (Exome) where performed. Alone's diagnostic had shown a high level of lactate and elevated liver enzymes along with few other anomalies but no clear explanation for the cataract's cause. 
   
 It was only two months later that the Exome results had arrived with devastating news.  
