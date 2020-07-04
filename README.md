@@ -20,8 +20,8 @@ I was sitting there, in that meeting, hearing the news with a single mantra loop
 
 Since then, both of us left our jobs and set on a long track dedicating our time and efforts to this cause.
  
-I do hope to report good news from time to time.
-
+I do hope to report good news from time to time. In the meanwhile, we are in a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's disscuss about what can be done.
+  
 # Few words about GFER syndrome  
 <a name="Few_words_about_GFER_syndrome"/>  
   
