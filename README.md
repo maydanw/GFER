@@ -77,11 +77,11 @@ From the clinical perspective, it means a progressive neurodegenerative disease 
   
 This is the disease we are in a war with and we want to stop from taking its toll.
  
- References:
+ *References:*
  
- Di Fonzo A, Ronchi D, Lodi T, Fassone E, Tigano M, Lamperti C, et al. (May 2009). "The mitochondrial disulfide relay system protein GFER is mutated in autosomal-recessive myopathy with cataract and combined respiratory-chain deficiency". American Journal of Human Genetics. 84 (5): 594–604. doi:10.1016/j.ajhg.2009.04.004. PMC 2681006. PMID 19409522.
+ *Di Fonzo A, Ronchi D, Lodi T, Fassone E, Tigano M, Lamperti C, et al. (May 2009). "The mitochondrial disulfide relay system protein GFER is mutated in autosomal-recessive myopathy with cataract and combined respiratory-chain deficiency". American Journal of Human Genetics. 84 (5): 594–604. doi:10.1016/j.ajhg.2009.04.004. PMC 2681006. PMID 19409522.*
  
- Nambot S, Gavrilov D, Thevenon J, Bruel AL, Bainbridge M, Rio M, et al. (August 2017). "Further delineation of a rare recessive encephalomyopathy linked to mutations in GFER thanks to data sharing of whole exome sequencing data". Clinical Genetics. 92 (2): 188–198. doi:10.1111/cge.12985. PMID 28155230.
+ *Nambot S, Gavrilov D, Thevenon J, Bruel AL, Bainbridge M, Rio M, et al. (August 2017). "Further delineation of a rare recessive encephalomyopathy linked to mutations in GFER thanks to data sharing of whole exome sequencing data". Clinical Genetics. 92 (2): 188–198. doi:10.1111/cge.12985. PMID 28155230.*
  
- Todd LR, Damin MN, Gomathinayagam R, Horn SR, Means AR, Sankar U (April 2010). "Growth factor erv1-like modulates Drp1 to preserve mitochondrial dynamics and function in mouse embryonic stem cells". Molecular Biology of the Cell. 21 (7): 1225–36. doi:10.1091/mbc.E09-11-0937. PMC 2847526. PMID 20147447.
+*Todd LR, Damin MN, Gomathinayagam R, Horn SR, Means AR, Sankar U (April 2010). "Growth factor erv1-like modulates Drp1 to preserve mitochondrial dynamics and function in mouse embryonic stem cells". Molecular Biology of the Cell. 21 (7): 1225–36. doi:10.1091/mbc.E09-11-0937. PMC 2847526. PMID 20147447.*
  
