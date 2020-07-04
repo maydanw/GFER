@@ -12,7 +12,7 @@ Email: maydanw@gmail.com
 
 <img src="./Images/IMG-20180821.jpg" width="250">  
   
-This cute baby name is Alon and he is 9 months old in the picture which was taken in August 2018. When Alon was 3 months old congenital cataracts were suddenly forming in his eyes and urgent surgeries were required. Along with the surgeries metabolic and genetics tests (Exome) where performed. Alone's diagnostic had shown a high level of lactate and elevated liver enzymes along with few other anomalies but no clear explanation for the cataract's cause. 
+This cute baby name is Alon and he is 9 months old in the picture which was taken in August 2018. When Alon was 3 months old congenital cataracts were suddenly forming in his eyes and urgent surgeries were required. Along with the surgeries metabolic and genetics tests (Exome) where performed. Alon’s diagnostic had shown a high level of lactate and elevated liver enzymes along with few other anomalies but no clear explanation for the cataract's cause. 
   
 It was only two months later that the Exome results had arrived with devastating news.  
 Alone has a mutation in a gene called GFER. It is a single nucleotide (a letter in the DNA) change in each of his gene's copies. One is a stop codon (c.502C>T; p.Gln168*), while the other (c.421C>T; p.Pro141Ser) drastically changes the resulted protein structure.  
@@ -23,7 +23,7 @@ I was sitting there, in that meeting, hearing the news with a single mantra loop
 
 Since then, both of us left our jobs and set on a long track dedicating our time and efforts to this cause.
  
-I do hope to report good news from time to time. In the meanwhile, we are on a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's disscuss about what can be done.
+I do hope to report good news from time to time. In the meanwhile, we are on a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's discuss what can be done.
 
 ## Update July 2020
 <a name="Update_July_2020"/>   
@@ -36,13 +36,13 @@ search for more "stable" solutions.   <br/>
 <img src="./Images/WA-20200701.jpeg" width="250">    
   
 # Research 
-We are working with various researchers and search to extend this network and facilitate cooperations. We believe these will allow each researcher achieve much more with lesser efforts while avoiding redundant work, and while the money needed for research is endless, we can also fund some of it making the reseach for Alon more approchable.   
+We are working with various researchers and search to extend this network and facilitate cooperation. We believe these will allow each researcher achieve much more with lesser efforts while avoiding redundant work, and while the money needed for research is endless, we can also fund some of it making the research for Alon more approachable.   
 **What we have:**  
   
 - [ ] TODO: Finish this part  
   
 * Models
-  * Fibroblast - We are currently working with fibroblast (from the whole family) and found few biomarkers. Of which, some of are good and some less. Improving this model can contribute and if you are intrested in doing reseach with them and sync with other researchers please let me know.
+  * Fibroblast - We are currently working with fibroblast (from the whole family) and found few biomarkers. Of which, some of are good and some less. Improving this model can contribute and if you are interested in doing research with them and sync with other researchers please let me know.
   * Mouse model - We are trying to build a mouse model (currently to no avail).  
   
 **What we need:**
@@ -98,7 +98,7 @@ including its DNA, until it cannot repair itself.
 As ATP production will hinder, the cell energy production process will produce lots of oxidative stress.
   
 To make things more complicated GFER have other roles like blocking (inhibiting) the signal which causes fission 
-of mitochondria (DRP1) and growth factor signaling for liver regeneration.
+of mitochondria (DRP1) and growth factor signalling for liver regeneration.
   
 From the clinical perspective, it means a progressive neurodegenerative disease with myopia, congenital cataracts, loss of motor abilities and more.
   
@@ -111,4 +111,4 @@ This is the disease we are in a war with and we want to stop from taking its tol
  *Nambot S, Gavrilov D, Thevenon J, Bruel AL, Bainbridge M, Rio M, et al. (August 2017). "Further delineation of a rare recessive encephalomyopathy linked to mutations in GFER thanks to data sharing of whole exome sequencing data". Clinical Genetics. 92 (2): 188–198. doi:10.1111/cge.12985. PMID 28155230.*
  
 *Todd LR, Damin MN, Gomathinayagam R, Horn SR, Means AR, Sankar U (April 2010). "Growth factor erv1-like modulates Drp1 to preserve mitochondrial dynamics and function in mouse embryonic stem cells". Molecular Biology of the Cell. 21 (7): 1225–36. doi:10.1091/mbc.E09-11-0937. PMC 2847526. PMID 20147447.*
- 
+
