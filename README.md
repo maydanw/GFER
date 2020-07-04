@@ -28,9 +28,10 @@ I do hope to report good news from time to time. In the meanwhile, we are on a v
 While new in GitHub, the initial "post" was written in 2018. Alon is now ~2.5 years old and by the time from previous 
 post we seem to managed to do something good, and he is developing properly and lately even his lactate measures are 
 in the normal ranges. We are aware this "peace" is fragile and continue our search for ways to improve our toolset and
-search for more "stable" solutions. 
-<img src="./Images/WA-20200512.jpeg" width="250">  
-<img src="./Images/WA-20200701.jpeg" width="250">  
+search for more "stable" solutions.   
+<img src="./Images/WA-20200512.jpeg" width="250"> 
+     
+<img src="./Images/WA-20200701.jpeg" width="250">    
 
   
 # Few words about GFER syndrome  
