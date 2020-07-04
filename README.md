@@ -15,12 +15,12 @@ It was only two months later that the Exome results had arrived with devastating
 Alone has a mutation in a gene called GFER. It is a single nucleotide (a letter in the DNA) change in each of his gene's copies. One is a stop codon (c.502C>T; p.Gln168*), while the other (c.421C>T; p.Pro141Ser) drastically changes the resulted protein structure.  
 The disease has only 9 documented cases. All of the documented children suffer from a loss of mental abilities (neurodegenerative), severe muscle weakness (myopathy) and many other horrible symptoms. What is more, the disease is a progressive mitochondrial disease (meaning their state deteriorates over time) and a healthy child now is not an indication what his state will be in the next year, month, week or day. As it is an ultra-rare disease, there is no money or interest in it and no one had even tried to develop a treatment for it.
 
-I was sitting there, in that meeting, hearing the news with a single mantra looping in my mind: "Hear, Learn, Act". As we came back home, my wife and I, swore an oath:
-**This will not be his future! **
+I was sitting there, in that meeting, hearing the news with a single mantra looping in my mind: "Hear, Learn, Act". As we came back home, my wife and I, swore an oath:  
+**This will not be his future!**   
 
 Since then, both of us left our jobs and set on a long track dedicating our time and efforts to this cause.
  
-I do hope to report good news from time to time. In the meanwhile, we are in a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's disscuss about what can be done.
+I do hope to report good news from time to time. In the meanwhile, we are on a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's disscuss about what can be done.
   
 # Few words about GFER syndrome  
 <a name="Few_words_about_GFER_syndrome"/>  
