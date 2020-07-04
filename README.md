@@ -1,6 +1,6 @@
-Table of Contents    
-[Few words about GFER syndrome](#Few words about GFER syndrome)  
-[What is GFER](#What is GFER) 
+#Table of Contents    
+[Few words about GFER syndrome](#Few_words_about_GFER_syndrome)  
+[What is GFER](#What_is_GFER) 
 
 # Our story 
 <img src="./Images/IMG-20180821.jpg" width="250">
@@ -18,9 +18,9 @@ Since then, both of us left our jobs and set on a long track dedicating our time
  
 I do hope to report good news from time to time.
 
-<a name="Few words about GFER syndrome"/>  
+<a name="Few_words_about_GFER_syndrome"/>  
 # Few words about GFER syndrome
-<a name="What is GFER"/>  
+<a name="What_is_GFER"/>  
 ## What is GFER 
 > Protein: FAD-linked sulfhydryl oxidase ALR  
 > Gene: GFER
