@@ -3,6 +3,8 @@
 2. [Few words about GFER syndrome](#Few_words_about_GFER_syndrome)   
 2.1. [What is GFER](#What_is_GFER)   
 2.2. [What is GFER Syndrome](#What_is_GFER_Syndrome)   
+
+Email: maydanw@gmail.com
   
 # Our story   
 <a name="Our_story"/>  
@@ -21,6 +23,9 @@ I was sitting there, in that meeting, hearing the news with a single mantra loop
 Since then, both of us left our jobs and set on a long track dedicating our time and efforts to this cause.
  
 I do hope to report good news from time to time. In the meanwhile, we are on a very lonely path and if you find this page relevant (due to walking on this path or from research perspective) drop me please a word at maydanw@gmail.com and let's disscuss about what can be done.
+
+## Update July 2020
+While new in GitHub, the initial "post" was written in 2018. Alon is now ~2.5 years old and by that time from previous post we seem to managed to do some good and he is developing properly and lately even his lactate measures are in the normal ranges. We are aware this "peace" is fragile and continuing searching for ways to improve our toolset and search for more "stable" solutions. 
   
 # Few words about GFER syndrome  
 <a name="Few_words_about_GFER_syndrome"/>  
