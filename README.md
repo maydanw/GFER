@@ -37,18 +37,19 @@ search for more "stable" solutions.   <br/>
   
 # Research 
 We are working with various researchers and search to extend this network and facilitate cooperation. We believe these will allow each researcher achieve much more with lesser efforts while avoiding redundant work, and while the money needed for research is endless, we can also fund some of it making the research for Alon more approachable.   
-**What we have:**  
-  
-- [ ] TODO: Finish this part  
-  
+**Where we stand:**  
+    
 * Models
-  * Fibroblast - We are currently working with fibroblast (from the whole family) and found few biomarkers. Of which, some of are good and some less. Improving this model can contribute and if you are interested in doing research with them and sync with other researchers please let me know.
-  * Mouse model - We are trying to build a mouse model (currently to no avail).  
+  * Fibroblast - We are currently working with fibroblast (from the whole family as controls) and found few biomarkers. Of which, some of are good and some less. Improving this model can contribute and if you are interested in doing research with the cells and sync with other researchers please let me know.
+  * Mouse model - We are trying to build a mouse model (currently without living mice pups born).  
   
-**What we need:**
-
-
+ * Protein model  
+   * Alon's mutated protein was crystallized and was measured for stabilization and activity.
   
+ * General understanding
+   * A lot of research was done to better understand what can be done with the available "tools" like natural compounds.
+   * We track Alon's lactate and use it as one of our live biomarkers. 
+
 # Few words about GFER syndrome  
 <a name="Few_words_about_GFER_syndrome"/>  
   
